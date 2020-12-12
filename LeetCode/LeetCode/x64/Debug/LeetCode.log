@@ -1,6 +1,8 @@
 ﻿  Solution.cpp
-e:\code\leetcode\leetcode\leetcode\solution.cpp(20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-e:\code\leetcode\leetcode\leetcode\solution.cpp(21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-e:\code\leetcode\leetcode\leetcode\solution.cpp(66): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-e:\code\leetcode\leetcode\leetcode\solution.cpp(67): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  LeetCode.vcxproj -> E:\code\LeetCode\LeetCode\x64\Debug\LeetCode.exe
+e:\code\leetcode\leetcode2\leetcode\leetcode\solution.cpp(20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\code\leetcode\leetcode2\leetcode\leetcode\solution.cpp(21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\code\leetcode\leetcode2\leetcode\leetcode\solution.cpp(66): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\code\leetcode\leetcode2\leetcode\leetcode\solution.cpp(67): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test.cpp
+  正在生成代码...
+  LeetCode.vcxproj -> E:\code\LeetCode\LeetCode2\LeetCode\x64\Debug\LeetCode.exe
